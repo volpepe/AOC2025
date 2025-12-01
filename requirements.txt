@@ -1,0 +1,6 @@
+python-dotenv
+advent-of-code-data
+numpy
+scipy
+tqdm
+matplotlib
